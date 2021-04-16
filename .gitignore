@@ -1,0 +1,12 @@
+.env
+.flaskenv
+
+venv/
+
+.idea
+
+__pycache__
+
+.vscode
+
+todo.md
